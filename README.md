@@ -1,6 +1,6 @@
 # mrhappy
 
-print out the first 1,000,000 [Happy Numbers](https://en.wikipedia.org/wiki/Happy_number) really fast
+print out [Happy Numbers](https://en.wikipedia.org/wiki/Happy_number) up to 1,000,000 really fast
 
 ## build and run
 
